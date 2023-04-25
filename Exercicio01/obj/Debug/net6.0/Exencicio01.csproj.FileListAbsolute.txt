@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\bin\Debug\net6.0\Exencicio01.exe
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\bin\Debug\net6.0\Exencicio01.deps.json
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\bin\Debug\net6.0\Exencicio01.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\bin\Debug\net6.0\Exencicio01.dll
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\bin\Debug\net6.0\Exencicio01.pdb
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.dll
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\refint\Exencicio01.dll
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.pdb
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\Exencicio01.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\C#Projects\Exercicio01\obj\Debug\net6.0\ref\Exencicio01.dll

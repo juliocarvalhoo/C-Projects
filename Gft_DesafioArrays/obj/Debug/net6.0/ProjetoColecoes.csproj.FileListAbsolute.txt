@@ -1,0 +1,15 @@
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\bin\Debug\net6.0\ProjetoColecoes.exe
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\bin\Debug\net6.0\ProjetoColecoes.deps.json
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\bin\Debug\net6.0\ProjetoColecoes.runtimeconfig.json
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\bin\Debug\net6.0\ProjetoColecoes.dll
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\bin\Debug\net6.0\ProjetoColecoes.pdb
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.csproj.AssemblyReference.cache
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.AssemblyInfoInputs.cache
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.AssemblyInfo.cs
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.csproj.CoreCompileInputs.cache
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.dll
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\refint\ProjetoColecoes.dll
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.pdb
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ProjetoColecoes.genruntimeconfig.cache
+C:\Users\julio\Desktop\Estudos\ListasArraysC#\ProjetoColecoes\obj\Debug\net6.0\ref\ProjetoColecoes.dll
